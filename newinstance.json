@@ -1,0 +1,23 @@
+{
+"AWSTemplateFormatVersion" : "2010-09-09",
+"Description": "my instances",
+
+
+"Parameters": {
+    
+},
+
+
+"Resources": {
+    "Description": "-",
+    "Type": "ec2",
+    "Properties": "-"
+}
+
+
+AWS::EC2::Image::Id
+
+
+
+
+
